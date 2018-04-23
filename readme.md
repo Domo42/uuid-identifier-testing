@@ -1,4 +1,4 @@
-This is very small performance test project to get an rough idea whether a Java
+This is very small performance test project to get a rough idea whether a Java
 UUID or a string in UUID format is the faster option.
 
 Summary
